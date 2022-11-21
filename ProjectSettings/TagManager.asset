@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Red
-  - Green
-  - Blue
+  - BlueBall
+  - RedBall
+  - GreenBall
   layers:
   - Default
   - TransparentFX
@@ -14,21 +14,21 @@ TagManager:
   - 
   - Water
   - UI
+  - whatIsPlayer
+  - 
+  - 
+  - whatIsWall
   - whatIsGround
   - 
   - 
   - 
+  - whatIsKnife
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - postProcessing
   - 
   - 
   - 
